@@ -1,0 +1,7 @@
+{
+  "name": "AttendEase – Student Attendance Management System",
+  "description": "Comprehensive student attendance management system featuring student directory, rapid roll-call marking, attendance history logs, percentage calculations, low-attendance alerts, and CSV exports with Local Storage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
